@@ -1,0 +1,15 @@
+[submodule "UnoEdit"]
+	path = UnoEdit
+	url = https://github.com/lextudio/UnoEdit.git
+[submodule "UnoRichText"]
+	path = UnoRichText
+	url = https://github.com/lextudio/UnoRichText.git
+[submodule "UnoPropertyGrid"]
+	path = UnoPropertyGrid
+	url = https://github.com/lextudio/UnoPropertyGrid.git
+[submodule "WindowsShims"]
+	path = WindowsShims
+	url = https://github.com/lextudio/WindowsShims.git
+[submodule "TextCore.Uno"]
+	path = TextCore.Uno
+	url = https://github.com/lextudio/TextCore.Uno.git
